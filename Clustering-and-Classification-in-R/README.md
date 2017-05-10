@@ -1,5 +1,5 @@
 # Clustering-and-Classification-in-R
-Here I implemented Clustering and Classification of Data in R. 
+Here I implemented basic Clustering and Classification of Data in R. 
 
 Data Set description for clustering is given in the Data Set folder. 
 
